@@ -1,3 +1,3 @@
 # TestGitFeatures
 
-- [X] Todo-1 ([#1]) done.
+- [X] Todo-1 done.
